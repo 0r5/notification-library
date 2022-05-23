@@ -150,3 +150,4 @@ function Notifications.Clear()
 		end
 	end 
 end
+return Notifications
